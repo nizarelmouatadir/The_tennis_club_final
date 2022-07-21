@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/the_tennis_club_final/static/css/main.fa95dbb9.css",
+    "main.js": "/the_tennis_club_final/static/js/main.600e51c8.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/the_tennis_club_final/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/Roger_Federer.jpg": "/the_tennis_club_final/static/media/Roger_Federer.ec653b1180f985f581c2.jpg",
+    "static/media/tennis_court_ottawa2.jpg": "/the_tennis_club_final/static/media/tennis_court_ottawa2.25de3dd9e00d7ef574d6.jpg",
+    "static/media/Rafael_Nadal.jpg": "/the_tennis_club_final/static/media/Rafael_Nadal.b4d392ece819146851fe.jpg",
+    "static/media/tennis_court_ottawa1.jpg": "/the_tennis_club_final/static/media/tennis_court_ottawa1.1a9248f21b8444594fe1.jpg",
+    "static/media/tennis_court_hull.jpg": "/the_tennis_club_final/static/media/tennis_court_hull.241f080b3a376670ad4e.jpg",
+    "static/media/Novak_Djokovic.jpg": "/the_tennis_club_final/static/media/Novak_Djokovic.0d1cef97470ba4209a74.jpg",
+    "static/media/tennis_court_ottawa2_location.jpg": "/the_tennis_club_final/static/media/tennis_court_ottawa2_location.58b5f037d1808a04f0af.jpg",
+    "static/media/tennis_court_hull_location.jpg": "/the_tennis_club_final/static/media/tennis_court_hull_location.ca1d29faa086d4466a46.jpg",
+    "static/media/tennis_court_ottawa1_location.jpg": "/the_tennis_club_final/static/media/tennis_court_ottawa1_location.c9afd081204e3614d616.jpg",
+    "index.html": "/the_tennis_club_final/index.html",
+    "main.fa95dbb9.css.map": "/the_tennis_club_final/static/css/main.fa95dbb9.css.map",
+    "main.600e51c8.js.map": "/the_tennis_club_final/static/js/main.600e51c8.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/the_tennis_club_final/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa95dbb9.css",
+    "static/js/main.600e51c8.js"
+  ]
+}
