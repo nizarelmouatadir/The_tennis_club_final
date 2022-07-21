@@ -3,7 +3,7 @@ import { MDBCard, MDBCardBody, MDBCardTitle, MDBCardText, MDBCardImage, MDBBtn, 
 
 const Home  = () => {
 
-    const [name, setName] = useState('');
+    const [field, setName] = useState('');
 
 
     const handleClick = () => {
